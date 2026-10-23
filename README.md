@@ -1,4 +1,13 @@
-# pi-antigravity
+# pi-antigravity (Archived / 已封库)
+
+> [!WARNING]
+> **已封库 / 停止更新（Archived — No Longer Maintained）**
+>
+> 本仓库已封库归档，不再进行任何更新或维护。建议直接使用 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)**。
+>
+> This repository is archived and no longer updated or maintained. We recommend using **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** instead.
+
+---
 
 > **PI-Desktop fork:** Download the versioned `.piplug` from [GitHub Releases](https://github.com/new-Beginner/pi-antigravity/releases). Follow [Desktop installation and safety notes](desktop/README.md); do not install the CLI package below into PI-Desktop. Desktop **0.2.7** restores the original application OAuth client for zero-configuration login. Personal access/refresh tokens and account state must never be included in source or packages. Upstream CLI metadata remains **0.10.0**.
 >

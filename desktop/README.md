@@ -1,4 +1,13 @@
-# Antigravity for PI-Desktop · 0.2.7
+# Antigravity for PI-Desktop · 0.2.7 (Archived / 已封库)
+
+> [!WARNING]
+> **已封库 / 停止更新（Archived — No Longer Maintained）**
+>
+> 本仓库已封库归档，不再进行任何更新或维护。建议直接使用 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)**。
+>
+> This repository is archived and no longer updated or maintained. We recommend using **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** instead.
+
+---
 
 > **0.2.7 恢复原登录配置：** 用户要求排除的是个人登录保存的 access/refresh token 和账号状态，不是应用客户端配置。0.2.5–0.2.6 误将两者混同并要求自配客户端；本版恢复 0.2.4 的同一组默认客户端，正常使用不必额外设置客户端变量。不会恢复、上传或删除你的本机个人令牌。
 >
